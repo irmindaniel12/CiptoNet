@@ -1,0 +1,32 @@
+﻿@model  IEnumerable<Entities.Historial>
+@{
+    ViewBag.Title = "Wallet";
+}
+
+
+
+<div class="Inf">
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>TipoTransaccion</th>
+                <th>Descripcion</th>
+                <th>Fecha</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+            <tr>
+                <td>@item.TipoDeTransaccion</td>
+                <td>@item.Descripcion</td>
+                <td>@item.Fecha</td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+
+    <script src="~/Scripts/elements.js"></script>
+

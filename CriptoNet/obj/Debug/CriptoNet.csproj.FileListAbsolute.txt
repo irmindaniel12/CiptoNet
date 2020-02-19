@@ -1,0 +1,178 @@
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\obj\Debug\CriptoNet.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\CriptoNet.dll.config
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\CriptoNet.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\CriptoNet.pdb
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\csc.exe
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\csc.exe.config
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\csc.rsp
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\csi.exe
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\csi.exe.config
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\csi.rsp
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\Microsoft.Managed.Core.targets
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\System.AppContext.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\System.Console.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\System.IO.Compression.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\System.IO.FileSystem.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\System.IO.Pipes.AccessControl.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\System.IO.Pipes.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\System.Security.AccessControl.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\System.Security.Claims.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\System.Security.Principal.Windows.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\System.ValueTuple.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\System.Xml.ReaderWriter.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\System.Xml.XmlDocument.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\System.Xml.XPath.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\vbc.exe
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\vbc.exe.config
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\vbc.rsp
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\Entities.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\Repositorios.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\System.Net.Http.Formatting.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\System.Web.Helpers.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\System.Web.Http.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\System.Web.Http.WebHost.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\System.Web.Mvc.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\System.Web.Razor.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\System.Web.Webpages.Deployment.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\System.Web.Webpages.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\System.Web.Webpages.Razor.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\Entities.pdb
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\Repositorios.pdb
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\System.Web.Razor.xml
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\System.Web.Webpages.xml
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\System.Web.Webpages.Deployment.xml
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\System.Web.Webpages.Razor.xml
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\System.Web.Helpers.xml
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\System.Web.Mvc.xml
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\System.Net.Http.Formatting.xml
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\System.Web.Http.xml
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\System.Web.Http.WebHost.xml
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\es\System.Web.Razor.resources.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\es\System.Web.Webpages.resources.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\es\System.Web.Webpages.Deployment.resources.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\es\System.Web.Webpages.Razor.resources.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\es\System.Web.Helpers.resources.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\es\System.Web.Mvc.resources.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\es\System.Net.Http.Formatting.resources.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\es\System.Web.Http.resources.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\bin\es\System.Web.Http.WebHost.resources.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\obj\Debug\CriptoNet.csproj.CopyComplete
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\obj\Debug\CriptoNet.dll
+\\Mac\Home\Desktop\CriptoNet\CriptoNet\obj\Debug\CriptoNet.pdb
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\obj\Debug\CriptoNet.csprojAssemblyReference.cache
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\obj\Debug\CriptoNet.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\obj\Debug\CriptoNet.pdb
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\CriptoNet.dll.config
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\CriptoNet.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\CriptoNet.pdb
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\csc.exe
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\csc.exe.config
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\csc.rsp
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\csi.exe
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\csi.exe.config
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\csi.rsp
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\System.AppContext.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\System.Console.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\System.IO.Compression.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\System.Security.Claims.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\System.ValueTuple.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\vbc.exe
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\vbc.exe.config
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\vbc.rsp
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\VBCSCompiler.exe
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\Entities.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\Newtonsoft.Json.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\Repositorios.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\System.Net.Http.Formatting.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\System.Web.Helpers.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\System.Web.Http.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\System.Web.Http.WebHost.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\System.Web.Mvc.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\System.Web.Razor.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\System.Web.Webpages.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\System.Web.Webpages.Razor.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\Entities.pdb
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\Repositorios.pdb
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\System.Web.Razor.xml
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\System.Web.Webpages.xml
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\System.Web.Webpages.Razor.xml
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\System.Web.Helpers.xml
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\System.Web.Mvc.xml
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\Newtonsoft.Json.xml
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\System.Net.Http.Formatting.xml
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\System.Web.Http.xml
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\System.Web.Http.WebHost.xml
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\es\System.Web.Razor.resources.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\es\System.Web.Http.resources.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\CriptoNet\obj\Debug\CriptoNet.csproj.CopyComplete

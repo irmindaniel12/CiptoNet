@@ -1,0 +1,166 @@
+﻿@model Entities.Historial
+
+@{
+    ViewBag.Title = "Trading";
+}
+
+<div class="Inf">
+    <div Class="Comprar">
+        <div class="tablaComprar">
+            <h1>Comprar</h1>
+
+        </div>
+
+        <p>Monto a comprar:</p>
+        <input type="text" id="monto" placeholder="Ingresa El monto en MXN">
+
+
+        <p>Precio:</p>
+        <input disabled type="text" id="precio">
+
+        <p id="Total">Total:</p>
+
+        <button onclick="total()">Consultar</button>
+
+        @using (Html.BeginForm("Trading", "Historial", method: FormMethod.Post))
+        {
+
+            @Html.HiddenFor(x => x.Id)
+            @Html.HiddenFor(x => x.TipoDeTransaccion, new { @Value = "Compra" })
+            @Html.HiddenFor(x => x.Fecha)
+            @Html.HiddenFor(x => x.Usuario, new { @Value = "Demo" })
+            @Html.HiddenFor(x => x.FechaCreacion)
+            @Html.HiddenFor(x => x.Borrado)
+    <div style="display: none">
+        @Html.TextBoxFor(x => x.Descripcion, htmlAttributes: new { @id = "Descp", @onclick = "CambiarInfo();" })
+    </div>
+            
+            <button>Comprar</button>
+        }
+
+    </div>
+
+    <div class="Vender">
+        <div class="tablaVender">
+            <h1>Vender</h1>
+        </div>
+
+        <p>Monto a vender:</p>
+        <input type="text" id="montov" placeholder="Ingresa El monto de tu criptomoneda">
+
+        <p>Precio:</p>
+        <input disabled type="text" id="preciov">
+
+        <p id="tv">Total:</p>
+        <button onclick="venta()">Consultar</button>
+
+        @using (Html.BeginForm("Trading", "Historial", method: FormMethod.Post))
+        {
+            @Html.HiddenFor(x => x.Id)
+            @Html.HiddenFor(x => x.TipoDeTransaccion, new { @Value = "Venta" })
+            @Html.HiddenFor(x => x.Fecha)
+            @Html.HiddenFor(x => x.Usuario, new { @Value = "Demo" })
+            @Html.HiddenFor(x => x.FechaCreacion)
+            @Html.HiddenFor(x => x.Borrado)
+
+            <div style="display: none">
+                @Html.TextBoxFor(x => x.Descripcion, htmlAttributes: new { @id = "DescpV", @onclick = "CambiarInfoV();" })
+            </div>
+            <button>Vender</button>
+        }
+    </div>
+
+    <p class="tc">Criptomonedas </p>
+
+    <ul class="social-icons icon-circle icon-rotate list-unstyled list-inline" id="BTC" onclick="mandarprecio(12,'BTC')">
+        <li>
+            <a href="#">
+                <i class="fa fa-btc">
+                    <img class="Icono" src="~/imagenes/bitcoin.png" title="Bitcoin">
+                </i>
+            </a>
+        </li>
+    </ul>
+
+    <ul class="social-icons icon-circle icon-rotate list-unstyled list-inline" id="ETH" onclick="mandarprecio(13,'ETH')">
+        <li>
+            <a href="#">
+                <i class="fa fa-eth">
+                    <img class="Icono" src="~/imagenes/ethereum.png" title="Etherium">
+                </i>
+            </a>
+        </li>
+    </ul>
+
+    <ul class="social-icons icon-circle icon-rotate list-unstyled list-inline" id="XRP" onclick="mandarprecio(14)">
+        <li>
+            <a href="#">
+                <i class="fa fa-xrp">
+                    <img class="Icono" src="~/imagenes/ripple.png" title="Ripple">
+                </i>
+            </a>
+        </li>
+    </ul>
+
+    <ul class="social-icons icon-circle icon-rotate list-unstyled list-inline" id="LTC" onclick="mandarprecio(15)">
+        <li>
+            <a href="#">
+                <i class="fa fa-ltc">
+                    <img class="Icono" src="~/imagenes/litecoin.png" title="Litecoin">
+                </i>
+            </a>
+        </li>
+    </ul>
+
+    <ul class="social-icons icon-circle icon-rotate list-unstyled list-inline" id="BCH" onclick="mandarprecio(16)">
+        <li>
+            <a href="#">
+                <i class="fa fa-bch">
+                    <img class="Icono" src="~/imagenes/btcash.png" title="BitcoinCash">
+                </i>
+            </a>
+        </li>
+    </ul>
+
+    <ul class="social-icons icon-circle icon-rotate list-unstyled list-inline" id="TUSD" onclick="mandarprecio(17)">
+        <li>
+            <a href="#">
+                <i class="fa fa-tusd">
+                    <img class="Icono" src="~/imagenes/trueusd.png" title="TrueUSD">
+                </i>
+            </a>
+        </li>
+    </ul>
+
+    <ul class="social-icons icon-circle icon-rotate list-unstyled list-inline" id="BAT" onclick="mandarprecio(18)">
+        <li>
+            <a href="#">
+                <i class="fa fa-bat">
+                    <img class="Icono" src="~/imagenes/bat.png" title="BAT">
+                </i>
+            </a>
+        </li>
+    </ul>
+
+    <ul class="social-icons icon-circle icon-rotate list-unstyled list-inline" id="GNT" onclick="mandarprecio(19)">
+        <li>
+            <a href="#">
+                <i class="fa fa-gnt">
+                    <img class="Icono" src="~/imagenes/golem.png" title="Golem">
+                </i>
+            </a>
+        </li>
+    </ul>
+
+    <ul class="social-icons icon-circle icon-rotate list-unstyled list-inline" id="MANA" onclick="mandarprecio(20)">
+        <li>
+            <a href="#">
+                <i class="fa fa-mana">
+                    <img class="Icono" src="~/imagenes/mana.png" title="Mana">
+                </i>
+            </a>
+        </li>
+    </ul>
+</div>
+<script src="~/Scripts/elements.js"></script>
+

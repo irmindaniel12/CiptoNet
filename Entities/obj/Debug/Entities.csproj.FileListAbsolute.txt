@@ -1,0 +1,10 @@
+\\Mac\Home\Desktop\CriptoNet\Entities\bin\Debug\Entities.dll
+\\Mac\Home\Desktop\CriptoNet\Entities\bin\Debug\Entities.pdb
+\\Mac\Home\Desktop\CriptoNet\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\CriptoNet\Entities\obj\Debug\Entities.dll
+\\Mac\Home\Desktop\CriptoNet\Entities\obj\Debug\Entities.pdb
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\Entities\obj\Debug\Entities.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\Entities\obj\Debug\Entities.pdb
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\Entities\bin\Debug\Entities.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\Entities\bin\Debug\Entities.pdb

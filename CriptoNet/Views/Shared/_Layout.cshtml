@@ -1,0 +1,76 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/font-awesome.min.css" rel="stylesheet" />
+    <link href="~/Content/estilo.css" rel="stylesheet" />
+    <link href="~/Content/nav.css" rel="stylesheet" />
+    <link href="~/Content/CriptoIco.css" rel="stylesheet" />
+    <link rel="icon" type="image/png" href="~/imagenes/pinguino.png">
+</head>
+<body>
+    <div>
+
+        <div class="area">
+            <h1>
+                CriptoNet
+                <img src="~/imagenes/pinguino.png" width="60px">
+            </h1>
+        </div>
+
+        <nav class="main-menu">
+            <ul>
+
+                <li>
+                    <a href="@Url.Action("Index")">
+                        <i class="fa fa-home fa-2x">
+                            <img src="~/imagenes/casa.png" width=25px;>
+                        </i>
+                        <span class="nav-text" i>
+                            Inicio
+                        </span>
+                    </a>
+                </li>
+
+                <li class="has-subnav">
+                    <a href="@Url.Action("Wallet")">
+                        <i class="fa fa-laptop fa-2x">
+                            <img src="~/imagenes/cartera.png" width=25px;>
+                        </i>
+                        <span class="nav-text">
+                            Wallet
+                        </span>
+                    </a>
+                </li>
+
+                <li class="has-subnav">
+                    <a href="@Url.Action("Trading")">
+                        <i class="fa fa-list fa-2x">
+                            <img src="~/imagenes/trading.png" width=25px;>
+                        </i>
+                        <span class="nav-text">
+                            Trading
+                        </span>
+                    </a>
+
+            </ul>
+            <ul class="logout">
+                <li>
+                    <a href="#">
+                        <i class="fa fa-power-off fa-2x">
+                            <img src="~/imagenes/logout.png" width=25px;>
+                        </i>
+                        <span class="nav-text">
+                            Cerrar Sesión
+                        </span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+        @RenderBody()
+    </div>
+</body>
+</html>

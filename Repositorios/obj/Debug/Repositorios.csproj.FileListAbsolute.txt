@@ -1,0 +1,16 @@
+\\Mac\Home\Desktop\CriptoNet\Repositorios\bin\Debug\Repositorios.dll
+\\Mac\Home\Desktop\CriptoNet\Repositorios\bin\Debug\Repositorios.pdb
+\\Mac\Home\Desktop\CriptoNet\Repositorios\bin\Debug\Entities.dll
+\\Mac\Home\Desktop\CriptoNet\Repositorios\bin\Debug\Entities.pdb
+\\Mac\Home\Desktop\CriptoNet\Repositorios\obj\Debug\Repositorios.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\CriptoNet\Repositorios\obj\Debug\Repositorios.csproj.CopyComplete
+\\Mac\Home\Desktop\CriptoNet\Repositorios\obj\Debug\Repositorios.dll
+\\Mac\Home\Desktop\CriptoNet\Repositorios\obj\Debug\Repositorios.pdb
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\Repositorios\obj\Debug\Repositorios.csprojAssemblyReference.cache
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\Repositorios\obj\Debug\Repositorios.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\Repositorios\obj\Debug\Repositorios.pdb
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\Repositorios\bin\Debug\Repositorios.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\Repositorios\bin\Debug\Repositorios.pdb
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\Repositorios\bin\Debug\Entities.dll
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\Repositorios\bin\Debug\Entities.pdb
+C:\Users\Irmin\OneDrive\7º Semestre\7º Semestre\CriptoNet\Repositorios\obj\Debug\Repositorios.csproj.CopyComplete

@@ -1,0 +1,88 @@
+.list-unstyled {
+	padding-left: 0;
+	list-style: none;
+}
+
+.list-inline  {
+	display: inline-block;
+	padding-right: 5px;
+	padding-left: 5px;
+  margin-bottom: 10px;
+  margin-left: 5%;
+}
+.social-icons .fa {
+      font-size: 1.8em;
+    
+}
+.social-icons .fa {
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	color: #FFF;
+	color: rgba(255, 255, 255, 0.8);
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-ms-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+  
+}
+
+.social-icons.icon-circle .fa{ 
+	border-radius: 50%;
+}
+.social-icons.icon-rounded .fa{
+	border-radius:5px;
+}
+.social-icons.icon-flat .fa{
+	border-radius: 0;
+}
+
+.social-icons.icon-rotate .fa:hover, .social-icons.icon-rotate .fa:active { 
+	-webkit-transform: scale(1.1) rotate(360deg);
+	-moz-transform: scale(1.1) rotate(360deg);
+	-ms-transform: scale(1.1) rotate(360deg);
+	-o-transform: scale(1.1) rotate(360deg);
+	transform: scale(1.1) rotate(360deg);
+}
+
+.social-icons .fa-adn{
+  background-color:#504e54;
+ 
+} 
+
+.social-icons .fa-btc{
+  background-color:#F99400;
+} 
+
+.social-icons .fa-eth{
+  background-color:rgb(149, 0, 249);
+} 
+
+.social-icons .fa-xrp{
+  background-color:rgb(0, 191, 249);
+} 
+
+.social-icons .fa-ltc{
+  background-color:rgb(0, 249, 228);
+} 
+
+.social-icons .fa-bch{
+  background-color:rgb(228, 102, 70);
+} 
+.social-icons .fa-tusd{
+  background-color:rgb(100, 249, 0);
+} 
+
+.social-icons .fa-bat{
+  background-color:rgb(248, 65, 52);
+} 
+
+.social-icons .fa-gnt{
+  background-color:rgb(217, 255, 0);
+} 
+
+.social-icons .fa-mana{
+  background-color:rgb(252, 0, 210);
+} 
